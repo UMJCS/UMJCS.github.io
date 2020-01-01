@@ -20,7 +20,7 @@ locale: en-US
 title: "Jie (Leon) Min's Personal Site"
 description: "Think ahead and Live in the moment"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://umjcs.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: #"https://umjcs.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
@@ -86,19 +86,52 @@ defaults:
       layout: post
       share: true
 
+# # Site Author
+# author:
+#   name:
+#   picture:
+#   email:
+#   twitter:
+#   links:
+#     - title:
+#       url:
+#       icon:
+
+# # Footer Links
+# footer_links:
+#   - title: Feed
+#     url: atom.xml
+#     icon: fas fa-rss-square
+
+
 # Site Author
 author:
-  name:
-  picture:
+  name: Michael Rose
+  picture: /images/michael-rose-photo.jpg
   email:
-  twitter:
+  twitter: mmistakes
   links:
-    - title:
-      url:
-      icon:
+    - title: Twitter
+      url: https://twitter.com/mmistakes
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/mmistakes
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/mmistakes
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/mmistakes
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/mmistakes
+    icon: fab fa-instagram
+  - title: GitHub
+    url: https://github.com/mmistakes
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
