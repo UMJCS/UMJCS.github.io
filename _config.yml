@@ -17,15 +17,15 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Jie (Leon) Min's Personal Site"
+description: "Think ahead and Live in the moment"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://umjcs.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
-mathjax: # MathJax equations, e.g. true
+read_time: true # reading time estimates, e.g. true
+words_per_minute: 100 # 200
+mathjax: true # MathJax equations, e.g. true
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -87,8 +87,8 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: Jie Min
+  name: Leon
   picture:
   email:
   twitter:
