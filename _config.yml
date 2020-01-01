@@ -87,15 +87,15 @@ defaults:
       share: true
 
 # Site Author
-author: Jie Min
-  name:
-  picture:
-  email:
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
+# author: Jie Min
+#   name:
+#   picture:
+#   email:
+#   twitter:
+#   links:
+#     - title:
+#       url:
+#       icon:
 
 # Footer Links
 footer_links:
