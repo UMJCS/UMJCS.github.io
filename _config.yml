@@ -116,15 +116,17 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:minjie@seas.upenn.edu
+
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/UMJCS/"
+
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://github.com/UMJCS/"
+      url: "https://www.linkedin.com/in/jiemin96/"
 
 # Site Footer
 footer:
@@ -132,6 +134,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/UMJCS/"
+
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jiemin96/"
 
 
 
