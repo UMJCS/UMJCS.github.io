@@ -30,9 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default)
 
 
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+
 
 words_per_minute         : 150
 comments:
@@ -293,6 +291,9 @@ defaults:
       comments: # true
       share: true
       related: true
+      toc: true
+      toc_label: "Quick Guide"
+      toc_icon: "cog"
   # _pages
   - scope:
       path: ""
@@ -300,3 +301,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc: true
+      toc_label: "Quick Guide"
+      toc_icon: "cog"
