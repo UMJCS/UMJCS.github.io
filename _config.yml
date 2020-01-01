@@ -130,9 +130,9 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jiemin96/"
 
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=boBs5MkAAAAJ&hl=en&authuser=1"
+    # - label: "Google Scholar"
+    #   icon: "fab fa-fw fa-google"
+    #   url: "https://scholar.google.com/citations?user=boBs5MkAAAAJ&hl=en&authuser=1"
 
 # Site Footer
 footer:
@@ -145,9 +145,9 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jiemin96/"
 
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=boBs5MkAAAAJ&hl=en&authuser=1"
+    # - label: "Google Scholar"
+    #   icon: "fab fa-fw fa-google"
+    #   url: "https://scholar.google.com/citations?user=boBs5MkAAAAJ&hl=en&authuser=1"
 
 
 
