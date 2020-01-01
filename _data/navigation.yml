@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Resume"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /resume/
   - title: "Tech Blogs"
     url: /year-archive/
   - title: "Research Paper Share"
