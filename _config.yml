@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Jie Min"
   avatar           : "/assets/img/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CS Student @ Upenn 2021' "
-  location         : "Philly United State"
+  bio              : "Computer Science @ Upenn 2021' "
+  location         : "Philly, PA, United State"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:minjie@seas.upenn.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
