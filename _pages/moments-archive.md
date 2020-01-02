@@ -2,7 +2,7 @@
 title: Important Moments
 layout: pages
 permalink: /moments/
-collection: moments
+collection: Important-Moments
 entries_layout: grid
 classes: wide
 ---

@@ -30,16 +30,6 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default)
 
 
-collections:
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  moments:
-    output: true
-    permalink: /:collection/:path/
-
-
-
 words_per_minute         : 120
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -285,6 +275,15 @@ compress_html:
   ignore:
     envs: development
 
+
+
+collections:
+  papers:
+    output: true
+    permalink: /:collection/:path/
+  Important-Moments:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

@@ -1,11 +1,11 @@
 # main links
 main:
 
-  - title: "Blog Archive"
+  - title: "Blog Review"
     url: /collection-archive/
 
 
-  - title: "Share Research Papers"
+  - title: "Research Papers"
     url: /tags/
 
 
