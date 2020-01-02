@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/moment/iccv19/1.jpg
 
-excerpt: "List Important Moments of My Whole Life."
+excerpt: "Share Important Moments of My Whole Life."
 
 intro: 
   - excerpt: 'There are lots of important moments in my life, I want to keep all those alive.'
@@ -19,11 +19,12 @@ feature_row:
     excerpt: "Come to Seoul Korea for the first time, Great conference experience! "
   - image_path: /assets/img/moment/grasp40/1.jpg
     alt: "Join GRASP lab at UPenn and Celebrating 40th years!"
-    title: "Join GRASP lab at UPenn and Celebrating 40th years!"
-    excerpt: "So glad to be one part of such a fantastic lab, and so glad to be advised and work with Professor Jianbo Shi!"
+    title: "Join GRASP lab @ UPenn and Celebrating 40th years!"
+    excerpt: "So glad to be one part of such a fantastic lab and advised/work with Professor Jianbo Shi!"
   - image_path: /assets/img/school.jpg
     title: "Life @ UC Berkeley and Uchicago"
     excerpt: "Study at those campus let me fall in love with campus life, Looking forward to going back there."
+
 
 feature_row2:
   - image_path: /assets/img/moment/iccv19/1.jpg
@@ -35,19 +36,18 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+  - image_path: /assets/img/moment/grasp40/3.jpg
+    alt: "Join GRASP lab at UPenn and Celebrating 40th years!"
+    title: "Join GRASP lab @ UPenn and Celebrating 40th years!"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+  - image_path: /assets/img/moment/undergraduate/1.jpg
+    alt: "Bachelar Graduation"
+    title: "Bachelar Graduation"
+    excerpt: '4 Year as Undergraduate student in Computer Science major.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -70,6 +70,6 @@ feature_row5:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="right" %}
 
 {% include feature_row id="feature_row5" type="center" %}
