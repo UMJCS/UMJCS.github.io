@@ -12,7 +12,6 @@ excerpt: "List Important Moments of My Whole Life."
 intro: 
   - excerpt: 'There are lots of important moments in my life, I want to keep all those alive.'
 
-
 feature_row:
   - image_path: /assets/img/moment/iccv19/1.jpg
     alt: "Paper Accepted by ICCV19' @ Seoul Korea"
@@ -25,9 +24,6 @@ feature_row:
   - image_path: /assets/img/moment/berkeley/4.jpg
     title: "Life @ UC Berkeley"
     excerpt: "Looking forward to going back there."
-<!--   - image_path:/assets/img/moment/chicago/1.jpg
-    title: "Life @ Uchicago"
-    excerpt: "Study at Uchicago let me fall in love with campus life." -->
 
 feature_row2:
   - image_path: /assets/img/moment/iccv19/1.jpg
