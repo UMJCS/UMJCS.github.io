@@ -1,7 +1,7 @@
 ---
 title: "Important Moments"
 layout: splash
-permalink: /moments-splash/
+permalink: /moments/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
