@@ -1,6 +1,6 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "ICCV19 at Seoul Koera"
+excerpt: "My paper accpeted by ICCV19, and this is the first time to Koera."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
