@@ -29,19 +29,12 @@ logo                     : "/assets/img/Logo.png" # path of logo image to displa
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 
-# collections:
-#   docs:
-#     output: true
-#     permalink: /:collection/:path/
-  # recipes:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # pets:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 words_per_minute         : 150
@@ -309,7 +302,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: _pages
     values:
       layout: single
       author_profile: true
@@ -320,8 +313,10 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: _portfolio
     values:
       layout: single
       author_profile: false
       share: true
+
+
