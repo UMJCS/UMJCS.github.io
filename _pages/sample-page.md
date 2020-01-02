@@ -1,15 +1,49 @@
 ---
-title: "Sample Page"
+title: "Resume"
 permalink: /sample-page/
-date: 2016-02-24T03:02:20+00:00
+author_profile: true
+toc: true
+toc_label: "Quick Guide"
+toc_icon: "cog"
+classes: wide
+
 ---
 
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+feature_row:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+---
 
-...or something like this:
+## Blockquotes
 
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
+Single line blockquote:
 
-You should probably delete this page and create new pages for your content. Have fun!
+> Stay hungry. Stay foolish.
+
+Multi line blockquote with a cite reference:
+
+> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
+
+
+{% include feature_row id="feature_row3" type="right" %}
