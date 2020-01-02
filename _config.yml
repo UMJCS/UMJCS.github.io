@@ -296,6 +296,7 @@ defaults:
       comments: # true
       share: false
       related: true
+      classes: wide
       toc: true
       toc_label: "Quick Guide"
       toc_icon: "cog"
