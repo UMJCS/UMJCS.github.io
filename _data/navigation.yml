@@ -1,10 +1,11 @@
 # main links
 main:
-  - title: "Share Research Paper"
-    url: /collection-archive/
 
   - title: "Tech Blogs"
-    url: /year-archive/
+    url: /archive-layout-with-content/
+
+  - title: "Share Research Paper"
+    url: /collection-archive/
 
   - title: "Resume"
     url: /resume/
