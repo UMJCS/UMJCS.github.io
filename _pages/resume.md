@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 permalink: /resume/
-layout: posts
+<!-- layout: posts -->
 author_profile: true
 
 toc: true
