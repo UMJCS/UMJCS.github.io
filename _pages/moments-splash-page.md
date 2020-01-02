@@ -4,7 +4,7 @@ layout: splash
 permalink: /moments-splash/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.5"
   overlay_image: /assets/img/moment/iccv19/1.jpg
 
 excerpt: "List Important Moments of My Whole Life."
@@ -18,19 +18,16 @@ feature_row:
     alt: "Paper Accepted by ICCV19' @ Seoul Korea"
     title: "Paper Accepted by ICCV19' @ Seoul Korea"
     excerpt: "Come to Seoul Korea for the first time, Great conference experience! "
-
   - image_path: /assets/img/moment/grasp40/1.jpg
     alt: "Join GRASP lab at UPenn and Celebrating 40th years!"
     title: "Join GRASP lab at UPenn and Celebrating 40th years!"
     excerpt: "So glad to be one part of such a fantastic lab, and so glad to be advised and work with Professor Jianbo Shi!"
-
   - image_path: /assets/img/moment/berkeley/4.jpg
     title: "Life @ UC Berkeley"
     excerpt: "Looking forward to going back there."
-
-  - image_path:/assets/img/moment/chicago/1.jpg
+<!--   - image_path:/assets/img/moment/chicago/1.jpg
     title: "Life @ Uchicago"
-    excerpt: "Study at Uchicago let me fall in love with campus life."
+    excerpt: "Study at Uchicago let me fall in love with campus life." -->
 
 feature_row2:
   - image_path: /assets/img/moment/iccv19/1.jpg
