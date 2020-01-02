@@ -2,13 +2,11 @@
 title: "Resume"
 permalink: /sample-page/
 author_profile: true
-layout: archive
+
 toc: true
 toc_label: "Quick Guide"
 toc_icon: "cog"
 classes: wide
-
----
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
