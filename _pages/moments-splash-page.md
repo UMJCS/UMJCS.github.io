@@ -21,9 +21,9 @@ feature_row:
     alt: "Join GRASP lab at UPenn and Celebrating 40th years!"
     title: "Join GRASP lab at UPenn and Celebrating 40th years!"
     excerpt: "So glad to be one part of such a fantastic lab, and so glad to be advised and work with Professor Jianbo Shi!"
-  - image_path: /assets/img/moment/berkeley/4.jpg
-    title: "Life @ UC Berkeley"
-    excerpt: "Looking forward to going back there."
+  - image_path: /assets/img/school.jpg
+    title: "Life @ UC Berkeley and Uchicago"
+    excerpt: "Study at those campus let me fall in love with campus life, Looking forward to going back there."
 
 feature_row2:
   - image_path: /assets/img/moment/iccv19/1.jpg
