@@ -1,8 +1,7 @@
 ---
-title: "Splash Page"
+title: "Important Moments"
 layout: splash
-permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+permalink: /moments/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
