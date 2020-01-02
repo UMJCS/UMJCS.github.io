@@ -1,7 +1,7 @@
 # main links
 main:
 
-  - title: "Site Map"
+  - title: "SiteMap"
     url: /overall-review/
 
 
@@ -12,7 +12,7 @@ main:
   - title: "Resume"
     url: /resume/
 
-  - title: "Shared Moments"
+  - title: "Moments"
     url: /moments/
 
   - title: "Search"
