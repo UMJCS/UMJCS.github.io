@@ -10,7 +10,7 @@ header:
 excerpt: "List Important Moments of My Whole Life."
 
 intro: 
-  - excerpt: 'There are lots of important moments in our life, I want to keep all those alive.'
+  - excerpt: 'There are lots of important moments in my life, I want to keep all those alive.'
 
 
 feature_row:
