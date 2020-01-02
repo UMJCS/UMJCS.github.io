@@ -31,6 +31,9 @@ breadcrumbs              : true # true, false (default)
 
 
 collections:
+  pets:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
