@@ -1,5 +1,5 @@
 ---
-title: "Papers by Tag"
+title: "Shared Papers by Tag"
 permalink: /papers/
 layout: tags
 author_profile: true

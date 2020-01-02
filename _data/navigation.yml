@@ -5,14 +5,14 @@ main:
     url: /overall-review/
 
 
-  - title: "Research Papers"
+  - title: "Shared Papers"
     url: /papers/
 
 
   - title: "Resume"
     url: /resume/
 
-  - title: "Moments"
+  - title: "Shared Moments"
     url: /moments/
 
   - title: "Search"

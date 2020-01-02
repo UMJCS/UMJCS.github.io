@@ -62,7 +62,7 @@ feature_row5:
     btn_class: "btn--primary"
 
 feature_row6:
-  - image_path: /assets/img/moment/NTU/1.jpg
+  - image_path: /assets/img/moment/NTU/6.jpg
     alt: "Life @ NTU Singapore"
     title: "Life @ NTU Singapore"
     excerpt: "As a Research Assistant at Nanyang Technology University at Singapore."
