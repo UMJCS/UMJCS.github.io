@@ -12,7 +12,7 @@ excerpt: "List Important Moments of My Whole Life."
 intro: 
   - excerpt: 'There are lots of important moments in our life, I want to keep all those alive.'
 
-selected:
+feature_row:
   - image_path: /assets/img/moment/iccv19/1.jpg
 <!--     image_caption: "Paper Accepted by ICCV19' @ Seoul Korea" -->
     alt: "Paper Accepted by ICCV19' @ Seoul Korea"
@@ -65,7 +65,7 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include selected %}
+{% include feature_row %}
 
 {% include feature_row id="iccv19" type="left" %}
 
