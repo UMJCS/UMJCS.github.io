@@ -17,3 +17,6 @@ main:
 
   - title: "Search"
     url: /search/
+
+  - title: "Test"
+    url: /sitemap/
