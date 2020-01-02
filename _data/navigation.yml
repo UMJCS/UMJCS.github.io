@@ -5,12 +5,12 @@ main:
     url: /collection-archive/
 
 
-  - title: "Share Research Paper"
+  - title: "Share Research Papers"
     url: /tags/
 
 
   - title: "Resume"
     url: /resume/
 
-  - title: "Fun Stuff"
-    url: /portfolio/
+  - title: "Moments"
+    url: /moments/

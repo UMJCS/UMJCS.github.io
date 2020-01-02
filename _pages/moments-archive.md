@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Important Moments
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /moments/
+collection: moments
 entries_layout: grid
 classes: wide
 ---
