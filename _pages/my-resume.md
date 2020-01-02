@@ -1,9 +1,8 @@
 ---
 title: "Resume"
 permalink: /my-resume/
-<!-- layout: posts -->
+layout: pages
 author_profile: true
-
 toc: true
 toc_label: "Quick Guide"
 toc_icon: "cog"
