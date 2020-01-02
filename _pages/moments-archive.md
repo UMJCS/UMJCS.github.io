@@ -1,8 +1,8 @@
 ---
 title: Important Moments
-layout: pages
+layout: moments
 permalink: /moments/
-collection: moments
+<!-- collection: moments -->
 entries_layout: grid
 classes: wide
 ---
