@@ -44,7 +44,7 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: /assets/img/moment/undergraduate/1.jpg
+  - image_path: /assets/img/moment/undergraduate/4.jpg
     alt: "Bachelar Graduation"
     title: "Bachelar Graduation"
     excerpt: '4 Year as Undergraduate student in Computer Science major.'
@@ -83,3 +83,4 @@ feature_row6:
 {% include feature_row id="feature_row5" type="right" %}
 
 {% include feature_row id="feature_row6" type="left" %}
+

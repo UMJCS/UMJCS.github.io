@@ -2,18 +2,18 @@
 main:
 
   - title: "Blog Review"
-    url: /collection-archive/
+    url: /overall-review/
 
 
   - title: "Research Papers"
-    url: /tags/
+    url: /papers/
 
 
   - title: "Resume"
     url: /resume/
 
   - title: "Moments"
-    url: /moments-splash/
+    url: /important-moments/
 
   - title: "Search"
     url: /search/

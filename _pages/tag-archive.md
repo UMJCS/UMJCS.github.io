@@ -1,6 +1,6 @@
 ---
 title: "Papers by Tag"
-permalink: /tags/
+permalink: /papers/
 layout: tags
 author_profile: true
 classes: wide
