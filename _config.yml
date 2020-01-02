@@ -40,7 +40,7 @@ collections:
 
 
 
-words_per_minute         : 150
+words_per_minute         : 120
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
