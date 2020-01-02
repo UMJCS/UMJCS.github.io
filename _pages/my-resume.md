@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-permalink: /resume/
+permalink: /my-resume/
 <!-- layout: posts -->
 author_profile: true
 
@@ -35,7 +35,7 @@ feature_row3:
     btn_class: "btn--primary"
 ---
 
-## Blockquotes
+<!-- ## Blockquotes
 
 Single line blockquote:
 
@@ -43,7 +43,7 @@ Single line blockquote:
 
 Multi line blockquote with a cite reference:
 
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
+> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things. -->
 
 
 {% include feature_row id="feature_row3" type="right" %}
