@@ -298,7 +298,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: moments
+      type: collection
     values:
       layout: single
       author_profile: false
