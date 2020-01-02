@@ -2,10 +2,12 @@
 main:
 
   - title: "Tech Blogs"
-    url: /archive-layout-with-content/
+    url: /collection-archive/
+
 
   - title: "Share Research Paper"
-    url: /collection-archive/
+    url: /tag-archive/
+
 
   - title: "Resume"
     url: /resume/
