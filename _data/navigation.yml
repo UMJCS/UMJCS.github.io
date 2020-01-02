@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /categories/
-  - title: "Resume"
-    url: /resume/
+  - title: "Share Research Paper"
+    url: /collection-archive/
+
   - title: "Tech Blogs"
     url: /year-archive/
-  - title: "Research Paper Share"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+
+  - title: "Resume"
+    url: /resume/
