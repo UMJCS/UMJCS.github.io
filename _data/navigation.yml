@@ -14,3 +14,6 @@ main:
 
   - title: "Moments"
     url: /moments/
+
+  - title: "Search"
+    url: /search/

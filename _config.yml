@@ -278,7 +278,7 @@ compress_html:
 
 
 collections:
-  papers:
+  Papers:
     output: true
     permalink: /:collection/:path/
   Important-Moments:
