@@ -18,7 +18,7 @@ feature_row:
     alt: "Paper Accepted by ICCV19' @ Seoul Korea"
     title: "Paper Accepted by ICCV19' @ Seoul Korea"
     excerpt: "Come to Seoul Korea for the first time, Great conference experience! "
-    url: "https://github.com/UMJCS/"
+    url: "https://umjcs.github.io/Important-Moments/iccv19/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
