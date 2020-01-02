@@ -53,13 +53,21 @@ feature_row4:
     btn_class: "btn--primary"
 
 feature_row5:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+  - image_path: /assets/img/chicago/3.jpg
+    title: "Life @ Uchicago"
+    excerpt: "Study at Uchicago let me fall in love with campus life."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row6:
+  - image_path: /assets/img/NTU/4.jpg
+    title: "Life @ NTU Singapore"
+    excerpt: "As a Research Assistant at Nanyang Technology University at Singapore."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -70,6 +78,8 @@ feature_row5:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row4" type="left" %}
 
-{% include feature_row id="feature_row5" type="center" %}
+{% include feature_row id="feature_row5" type="right" %}
+
+{% include feature_row id="feature_row6" type="left" %}
