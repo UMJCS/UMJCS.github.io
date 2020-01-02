@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 permalink: /resume/
-layout: pages
+layout: posts
 author_profile: true
 toc: true
 toc_label: "Quick Guide"
