@@ -7,7 +7,8 @@ author_profile: true
 toc: true
 toc_label: "Quick Guide"
 toc_icon: "cog"
-wild: true
+classes: wide
+
 ---
 
 ## Blockquotes
