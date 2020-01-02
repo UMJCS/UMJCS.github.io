@@ -316,7 +316,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: moments
     values:
       layout: single
       author_profile: false

@@ -1,6 +1,6 @@
 ---
 title: Important Moments
-layout: pages
+layout: collection
 permalink: /moments/
 collection: Important-Moments
 entries_layout: grid
