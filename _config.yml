@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Jie Min"
   avatar           : "/assets/img/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Science Student 2021' @ Upenn "
+  bio              : "Computer Science Student 2021' @ Upenn/GRASP Lab "
   location         : "Philly, PA, United State"
   email            :
   links:
