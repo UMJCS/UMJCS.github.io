@@ -2,6 +2,7 @@
 title: "Resume"
 permalink: /sample-page/
 author_profile: true
+layout: archive
 toc: true
 toc_label: "Quick Guide"
 toc_icon: "cog"
