@@ -34,7 +34,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
-iccv19:
+feature_row2:
   - image_path: /assets/img/moment/iccv19/1.jpg
 <!--     image_caption: "Paper Accepted by ICCV19' @ Seoul Korea" -->
     alt: "Paper Accepted by ICCV19' @ Seoul Korea"
@@ -67,7 +67,7 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="iccv19" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
