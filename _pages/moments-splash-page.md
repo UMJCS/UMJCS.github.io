@@ -53,7 +53,8 @@ feature_row4:
     btn_class: "btn--primary"
 
 feature_row5:
-  - image_path: /assets/img/chicago/3.jpg
+  - image_path: /assets/img/moment/chicago/3.jpg
+    alt: "Life @ Uchicago"
     title: "Life @ Uchicago"
     excerpt: "Study at Uchicago let me fall in love with campus life."
     url: "#test-link"
@@ -61,7 +62,8 @@ feature_row5:
     btn_class: "btn--primary"
 
 feature_row6:
-  - image_path: /assets/img/NTU/4.jpg
+  - image_path: /assets/img/moment/NTU/4.jpg
+    alt: "Life @ NTU Singapore"
     title: "Life @ NTU Singapore"
     excerpt: "As a Research Assistant at Nanyang Technology University at Singapore."
     url: "#test-link"
