@@ -68,3 +68,6 @@ Multi line blockquote with a cite reference:
 
 
 {% include feature_row id="feature_row3" type="right" %}
+
+
+{% include video id="nhla-Mfq2Wc" provider="youtube" %}
