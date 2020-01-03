@@ -281,7 +281,7 @@ collections:
   Share-Papers:
     output: true
     permalink: /:collection/:path/
-  Important-Moments:
+  moments:
     output: true
     permalink: /:collection/:path/
 
