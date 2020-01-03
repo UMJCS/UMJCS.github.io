@@ -1,6 +1,8 @@
 ---
 title: "ICCV19 at Seoul Koera"
 excerpt: "My paper accpeted by ICCV19, and this is the first time to Koera."
+layout: pages
+classes: wide
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
