@@ -31,7 +31,7 @@ feature_row2:
     alt: "Paper Accepted by ICCV19' @ Seoul Korea"
     title: "Paper Accepted by ICCV19' @ Seoul Korea"
     excerpt: "Come to Seoul Korea for the first time, Great conference experience! "
-    url: /Important-Moments/iccv19/
+    url: /moments/iccv19/
     btn_label: "Read More"
     btn_class: "btn--primary"
 

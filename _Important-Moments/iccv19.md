@@ -1,7 +1,7 @@
 ---
 title: "ICCV19 at Seoul Koera"
 excerpt: "My paper accpeted by ICCV19, and this is the first time to Koera."
-permalink: /iccv19/
+permalink: /moments/iccv19/
 author_profile: true
 toc: true
 toc_label: "Quick Guide"
