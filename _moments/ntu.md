@@ -55,8 +55,8 @@ feature_row4:
     btn_class: "btn--primary"
 
 header:
-  image: /assets/img/moment/NTU/4.jpg
-  teaser: /assets/img/moment/NTU/4.jpg
+  image: /assets/img/moment/NTU/3.jpg
+  teaser: /assets/img/moment/NTU/3.jpg
 
 gallery:
   - url: /assets/img/moment/NTU/4.jpg
@@ -69,6 +69,14 @@ gallery:
 
   - url: /assets/img/moment/NTU/3.jpg
     image_path: assets/img/moment/NTU/3.jpg
+    alt: "placeholder image 3"
+
+  - url: /assets/img/moment/NTU/1.jpg
+    image_path: assets/img/moment/NTU/1.jpg
+    alt: "placeholder image 3"
+    
+  - url: /assets/img/moment/NTU/5.jpg
+    image_path: assets/img/moment/NTU/5.jpg
     alt: "placeholder image 3"
 ---
 
