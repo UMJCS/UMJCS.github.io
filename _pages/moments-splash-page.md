@@ -39,7 +39,7 @@ feature_row3:
   - image_path: /assets/img/moment/grasp40/3.jpg
     alt: "Join GRASP lab at UPenn and Celebrating 40th years!"
     title: "Join GRASP lab @ UPenn and Celebrating 40th years!"
-    url: "#test-link"
+    url: /moments/grasp40/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -48,7 +48,7 @@ feature_row4:
     alt: "Bachelar Graduation"
     title: "Bachelar Graduation"
     excerpt: '4 Year as Undergraduate student in Computer Science major.'
-    url: "#test-link"
+    url: /moments/bgraduation/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -66,7 +66,7 @@ feature_row6:
     alt: "Life @ NTU Singapore"
     title: "Life @ NTU Singapore"
     excerpt: "As a Research Assistant at Nanyang Technology University at Singapore."
-    url: "#test-link"
+    url: /moments/ntu/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
