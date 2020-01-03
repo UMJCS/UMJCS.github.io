@@ -59,8 +59,8 @@ header:
   teaser: /assets/img/moment/iccv19/4.jpg
 
 gallery:
-  - url: /assets/img/moment/iccv19/4.jpg
-    image_path: assets/img/moment/iccv19/4.jpg
+  - url: /assets/img/moment/iccv19/1.jpg
+    image_path: assets/img/moment/iccv19/1.jpg
     alt: "placeholder image 1"
 
   - url: /assets/img/moment/iccv19/2.jpg
