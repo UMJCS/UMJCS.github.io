@@ -7,4 +7,5 @@ classes: wide
 toc: true
 toc_label: "Quick Review"
 toc_icon: "cog"
+toc_sticky: true
 ---

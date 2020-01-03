@@ -5,6 +5,7 @@ author_profile: true
 toc: true
 toc_label: "Quick Guide"
 toc_icon: "cog"
+toc_sticky: true
 classes: wide
 
 feature_row:
