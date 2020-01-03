@@ -2,11 +2,11 @@
 title: "ICCV19 at Seoul Koera"
 excerpt: "My paper accpeted by ICCV19, and this is the first time to Koera."
 permalink: /moments/iccv19/
-author_profile: true
+author_profile: false
 toc: true
 toc_label: "Quick Guide"
 toc_icon: "cog"
-classes: wide
+toc_sticky: true
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
