@@ -88,8 +88,7 @@ Major GAP 3.75/4.0
 ## Selected Experiences
 
 ### Publication/Research Intern
-
-#### ** Liquid-Warping GAN ** || Accepted by ICCV19'
+* **Liquid-Warping GAN** || Accepted by ICCV19'
 *Perception Lab, ShanghaiTech University* | 11/2018-04/2019
 
 > xxx
@@ -99,7 +98,7 @@ Major GAP 3.75/4.0
 
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
 
-#### **DAVid GAN** || Submitted to VCIP19'
+* **DAVid GAN** || Submitted to VCIP19'
 *Perception Lab, ShanghaiTech University* | 03/2019-06/2019
 
 > xxx
