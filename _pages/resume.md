@@ -89,7 +89,7 @@ Major GAP 3.75/4.0
 
 ### Publication/Research Intern
 * **Liquid-Warping GAN** || Accepted by ICCV19'
-*Perception Lab, ShanghaiTech University* | 11/2018-04/2019
+*Perception Lab, ShanghaiTech University* || 11/2018-04/2019
 
 > xxx
 
@@ -99,12 +99,20 @@ Major GAP 3.75/4.0
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
 
 * **DAVid GAN** || Submitted to VCIP19'
-*Perception Lab, ShanghaiTech University* | 03/2019-06/2019
+*Perception Lab, ShanghaiTech University* || 03/2019-06/2019
 
-> xxx
+> xxxx
 
+# Selected Projects
 
-
+1. MURA Musculoskeletal Radiographs Bone X-Ray Deep Learning Competition Stanford Machine Learning Group ***{Independent Research Project}***
+2. Auto-Picking - Protein Particle Recognition and Segmentation in Cryo-electron Microscopy using Regions with CNNs Features (RCNN) ***{Independent Research Project}***
+3. Training a Sparse-Reward Agent for First-Person Shooter Game using DDRQN and Curriculum Learning ***{Artificial Intelligence Course Project}***
+4. Using Kinect to Detect Human Skeleton and Gestures Point-To-Point Control AR Game Models to Fight ***{Computer Vision Course Project}***
+5. Multimodal Unsupervised "Inverse Style Transfer" on Human Face ***{Deep Learning Course Project}***
+   > link:kkkk
+6. LSTM-PPO: Memory Adaptive Method to Reinforcement Learning in Car Racing Task ***{Perception Course Project}***
+   > link:xxxx
 
 
 ## Blockquotes
