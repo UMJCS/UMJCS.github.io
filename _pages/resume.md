@@ -116,6 +116,7 @@ Major GAP 3.75/4.0
 
 ### Publication/Research Intern
 * **Liquid-Warping GAN** *(Accepted by ICCV19')* || 11/2018-04/2019
+
 *Perception Lab, ShanghaiTech University, Prof. Shenghua Gao* 
 
 > 1111
@@ -128,18 +129,20 @@ Major GAP 3.75/4.0
 
 
 * **Nested Scale-Editing for Conditional Image Synthesis** *(Submitted to CVPR20')* || 03/2019-06/2019
+
 *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* 
 
 > 22222
 
 * **Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation** *(Submitted to CVPR20')* || 03/2019-06/2019
+
 *Perception Lab, ShanghaiTech University* 
 
 > 3333333
 
 
-
 * **DAVid GAN** *(Submitted to VCIP19')* || 03/2019-06/2019
+
 *Perception Lab, ShanghaiTech University, Prof. Shenghua Gao* 
 
 > 44444
