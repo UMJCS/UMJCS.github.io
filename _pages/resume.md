@@ -115,10 +115,10 @@ Major GAP 3.75/4.0
 ## Selected Experiences
 
 ### Publication/Research Intern
-* **Liquid-Warping GAN** || Accepted by ICCV19'
-*Perception Lab, ShanghaiTech University* || 11/2018-04/2019
+* **Liquid-Warping GAN** *(Accepted by ICCV19')* || 11/2018-04/2019
+*Perception Lab, ShanghaiTech University, Prof. Shenghua Gao* 
 
-> xxx
+> 1111
 
 {% include feature_row id="feature_row3" type="right" %}
 
@@ -126,12 +126,29 @@ Major GAP 3.75/4.0
 
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
 
-* **DAVid GAN** || Submitted to VCIP19'
-*Perception Lab, ShanghaiTech University* || 03/2019-06/2019
 
-> xxxx
+* **Nested Scale-Editing for Conditional Image Synthesis** *(Submitted to CVPR20')* || 03/2019-06/2019
+*GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* 
 
-# Selected Projects
+> 22222
+
+* **Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation** *(Submitted to CVPR20')* || 03/2019-06/2019
+*Perception Lab, ShanghaiTech University* 
+
+> 3333333
+
+
+
+* **DAVid GAN** *(Submitted to VCIP19')* || 03/2019-06/2019
+*Perception Lab, ShanghaiTech University, Prof. Shenghua Gao* 
+
+> 44444
+
+
+
+
+
+## Selected Projects
 
 1. MURA Musculoskeletal Radiographs Bone X-Ray Deep Learning Competition Stanford Machine Learning Group ***{Independent Research Project}***
 2. Auto-Picking - Protein Particle Recognition and Segmentation in Cryo-electron Microscopy using Regions with CNNs Features (RCNN) ***{Independent Research Project}***
@@ -144,17 +161,4 @@ Major GAP 3.75/4.0
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-
-## Blockquotes
-
-Single line blockquote:
-
-> Stay hungry. Stay foolish.
-
-Multi line blockquote with a cite reference:
-
-> People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
-
-
-{% include feature_row id="feature_row3" type="right" %}
 
