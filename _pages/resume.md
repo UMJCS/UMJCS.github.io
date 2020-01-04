@@ -58,7 +58,7 @@ feature_row4:
 
 ## Education
 ### **University of Pennsylvania**  
-*Master of Science in Engineering, Robotics*        |  August 2019 - May 2021
+*Master of Science in Engineering, Robotics*        |  August 2019 - May 2021 |
 *Current GPA: 4.0/4.0*
 
 > **Courses** || Advanced Topic in Machine Perception, BigData, Linear/Nonlinear Optimization, Machine Learning, Deep Learning.
@@ -67,7 +67,7 @@ feature_row4:
 
 
 ### **ShanghaiTech University**
-*Bachelor of Computer Science and Engineering*        |  August 2015 - June 2019
+*Bachelor of Computer Science and Engineering*        |  August 2015 - June 2019 |
 Major GAP 3.75/4.0
 
 > **Highlighted Courses** || Deep Learning, Computer Vision, Advanced Algorithm, Autonomous Robotics
@@ -86,6 +86,27 @@ Major GAP 3.75/4.0
 **Research Interests** | 3D Human Motion Animation, Unsupervised Learning, Detection/Segmentation
 **Publications** | One accepted ICCV19' (Liquid Warping GAN), Two submitted CVPR20'(xxx and xxx)
 
+## Selected Experiences
+
+### Publication/Research Intern
+
+#### **Liquid-Warping GAN** || Accepted by ICCV19'
+*Perception Lab, ShanghaiTech University* | 11/2018-04/2019
+
+> xxx
+
+{% include feature_row id="feature_row3" type="right" %}
+
+
+{% include video id="nhla-Mfq2Wc" provider="youtube" %}
+
+#### **DAVid GAN** || Submitted to VCIP19'
+*Perception Lab, ShanghaiTech University* | 03/2019-06/2019
+
+> xxx
+
+
+
 
 
 ## Blockquotes
@@ -101,5 +122,3 @@ Multi line blockquote with a cite reference:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-
-{% include video id="nhla-Mfq2Wc" provider="youtube" %}
