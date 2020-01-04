@@ -64,9 +64,7 @@ feature_row4:
 > **Courses** || Advanced Topic in Machine Perception, BigData, Linear/Nonlinear Optimization, Machine Learning, Deep Learning.
 > 
 > **Research** || Join GRASP Lab, advised by Prof. Jianbo Shi, interested in Computer Vision and Machine Learning. Submitted two papers to CVPR20'
-> 
-> * xx 
-> * xx 
+
 
 ### **ShanghaiTech University**
 *Bachelor of Computer Science and Engineering*        |  August 2015 - June 2019
@@ -83,10 +81,10 @@ Major GAP 3.75/4.0
 
 ## Skills
 
-#### Languages | python,C++,Pytorch,Tensorflow,JAVA,SQL
-#### Technologies | Linux, Multi-GPU Server, Latex, Vim, Git, Arxiv
-#### Research Interests | 3D Human Motion Animation, Unsupervised Learning, Detection/Segmentation
-#### Publication | One accepted ICCV19' (Liquid Warping GAN), Two submitted CVPR20'(xxx and xxx)
+**Languages** | python,C++,Pytorch,Tensorflow,JAVA,SQL
+**Technologies** | Linux, Multi-GPU Server, Latex, Vim, Git, Arxiv
+**Research Interests** | 3D Human Motion Animation, Unsupervised Learning, Detection/Segmentation
+**Publications** | One accepted ICCV19' (Liquid Warping GAN), Two submitted CVPR20'(xxx and xxx)
 
 
 
