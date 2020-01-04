@@ -52,6 +52,20 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+gallery:
+  - url: /assets/img/moment/NTU/4.jpg
+    image_path: assets/img/moment/NTU/4.jpg
+    alt: "placeholder image 1"
+
+  - url: /assets/img/moment/NTU/2.jpg
+    image_path: assets/img/moment/NTU/2.jpg
+    alt: "placeholder image 2"
+
+  - url: /assets/img/moment/NTU/3.jpg
+    image_path: assets/img/moment/NTU/3.jpg
+    alt: "placeholder image 3"
+
 ---
 
 
@@ -113,6 +127,8 @@ Major GAP 3.75/4.0
    > link:kkkk
 6. LSTM-PPO: Memory Adaptive Method to Reinforcement Learning in Car Racing Task ***{Perception Course Project}***
    > link:xxxx
+
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 
 ## Blockquotes
