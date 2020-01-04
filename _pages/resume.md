@@ -66,6 +66,19 @@ gallery:
     image_path: assets/img/moment/NTU/3.jpg
     alt: "placeholder image 3"
 
+gallery1:
+  - url: /assets/img/moment/NTU/4.jpg
+    image_path: assets/img/moment/NTU/4.jpg
+    alt: "placeholder image 1"
+
+  - url: /assets/img/moment/NTU/2.jpg
+    image_path: assets/img/moment/NTU/2.jpg
+    alt: "placeholder image 2"
+
+  - url: /assets/img/moment/NTU/3.jpg
+    image_path: assets/img/moment/NTU/3.jpg
+    alt: "placeholder image 3"
+
 ---
 
 
@@ -109,6 +122,7 @@ Major GAP 3.75/4.0
 
 {% include feature_row id="feature_row3" type="right" %}
 
+{% include gallery1 caption="This is a sample gallery to go along with this case study." %}
 
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
 
