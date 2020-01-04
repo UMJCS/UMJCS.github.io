@@ -122,7 +122,7 @@ Major GAP 3.75/4.0
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include gallery1 caption="This is a sample gallery to go along with this case study." %}
+{% include gallery id="gallery1" caption="This is a sample gallery to go along with this case study." %}
 
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
 
