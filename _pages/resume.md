@@ -38,11 +38,10 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    # url: "#test-link"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
 
 
 feature_row4:
@@ -90,7 +89,7 @@ Major GAP 3.75/4.0
 
 ### Publication/Research Intern
 
-#### **Liquid-Warping GAN** || Accepted by ICCV19'
+#### ** Liquid-Warping GAN ** || Accepted by ICCV19'
 *Perception Lab, ShanghaiTech University* | 11/2018-04/2019
 
 > xxx
