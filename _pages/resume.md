@@ -116,7 +116,7 @@ Major GAP 3.75/4.0
 
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
 
-> Funny Demos and codes are public on the website: [Website](https://svip-lab.github.io/project/impersonator.html), [Paper](https://arxiv.org/pdf/1909.12224.pdf), [Code](https://github.com/svip-lab/impersonator).
+> Funny Demos and codes are public on the website: [**Website**](https://svip-lab.github.io/project/impersonator.html), [**Paper**](https://arxiv.org/pdf/1909.12224.pdf), [**Code**](https://github.com/svip-lab/impersonator).
 > 
 > Estimate pose, shape and camera information using *HMR* framework. And then send arranged info to *SMPL* module, which outputs meticulous 3D mesh and then render back to 2D image.
 > To make generation step smoother, we apply transformation of the two input sources not only on pixel level, but also on *autoencoder's feature spaces*. GAN could generate more realistic images and "guess" unseen parts.
