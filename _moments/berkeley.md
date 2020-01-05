@@ -1,7 +1,7 @@
 ---
-title: "GRASP Lab 40th Years Anniversary"
-excerpt: "Celerating 40th years of GRASP Lab."
-permalink: /moments/grasp40/
+title: "Life @ UC Berkeley"
+excerpt: "Sunset and City."
+permalink: /moments/berkeley/
 author_profile: false
 toc: true
 toc_label: "Quick Guide"
@@ -55,21 +55,22 @@ feature_row4:
     btn_class: "btn--primary"
 
 header:
-  image: /assets/img/moment/grasp40/1.jpg
-  teaser: /assets/img/moment/grasp40/1.jpg
+  image: /assets/img/moment/berkeley/3.jpg
+  teaser: /assets/img/moment/berkeley/3.jpg
 
 gallery:
-  - url: /assets/img/moment/grasp40/2.jpg
-    image_path: assets/img/moment/grasp40/2.jpg
+  - url: /assets/img/moment/berkeley/1.jpg
+    image_path: assets/img/moment/berkeley/1.jpg
     alt: "placeholder image 1"
 
-  - url: /assets/img/moment/grasp40/3.jpg
-    image_path: assets/img/moment/grasp40/3.jpg
+  - url: /assets/img/moment/berkeley/2.jpg
+    image_path: assets/img/moment/berkeley/2.jpg
     alt: "placeholder image 2"
 
-  - url: /assets/img/moment/grasp40/1.jpg
-    image_path: assets/img/moment/grasp40/1.jpg
+  - url: /assets/img/moment/berkeley/3.jpg
+    image_path: assets/img/moment/berkeley/3.jpg
     alt: "placeholder image 3"
+
 ---
 
-{% include gallery caption="GRASP 40th" %}
+{% include gallery caption="Life @ UC Berkeley" %}

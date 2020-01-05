@@ -57,7 +57,7 @@ feature_row5:
     alt: "Life @ Uchicago"
     title: "Life @ Uchicago"
     excerpt: "Study at Uchicago let me fall in love with campus life."
-    url: "#test-link"
+    url: /moments/chicago/
     btn_label: "Read More"
     btn_class: "btn--primary"
 
