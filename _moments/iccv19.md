@@ -80,3 +80,5 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
 
 
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
+
+{% include figure image_path="/assets/img/moment/undergraduate/VCIP.png" alt="PipeLine of DAVid GAN" %}
