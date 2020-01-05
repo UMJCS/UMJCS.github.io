@@ -70,7 +70,7 @@ david:
 ## Education
 ### **University of Pennsylvania**  
 *Master of Science in Engineering, Robotics*        |  August 2019 - May 2021 |
-*Current GPA: 4.0/4.0*
+***Current GPA: 4.0/4.0***
 
 > **Courses** || Advanced Topic in Machine Perception, BigData, Linear/Nonlinear Optimization, Machine Learning, Deep Learning.
 > 
@@ -79,7 +79,7 @@ david:
 
 ### **ShanghaiTech University**
 *Bachelor of Computer Science and Engineering*        |  August 2015 - June 2019 |
-Major GAP 3.75/4.0
+***Major GAP 3.75/4.0***
 
 > **Highlighted Courses** || Deep Learning, Computer Vision, Advanced Algorithm, Autonomous Robotics
 > 
@@ -100,8 +100,10 @@ Major GAP 3.75/4.0
 ### Publication/Research Intern
 * **Liquid-Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis** *(Accepted by ICCV19')* || *Perception Lab, ShanghaiTech University, Prof. Shenghua Gao* || 11/2018-04/2019 
 
-{% include video id="nhla-Mfq2Wc" provider="youtube" %}
 {% include figure image_path="/assets/img/moment/iccv19/LGAN.png" alt="PipeLine of Liquid Warping GAN" %}
+
+{% include video id="nhla-Mfq2Wc" provider="youtube" %}
+
 > Funny Demos and codes are public on the website: [**Website**](https://svip-lab.github.io/project/impersonator.html), [**Paper**](https://arxiv.org/pdf/1909.12224.pdf), [**Code**](https://github.com/svip-lab/impersonator).
 > 
 > Estimate pose, shape and camera information using *HMR* framework. And then send arranged info to *SMPL* module, which outputs meticulous 3D mesh and then render back to 2D image.
@@ -135,12 +137,12 @@ Major GAP 3.75/4.0
 ## Selected Projects
 
 1. Multimodal Unsupervised "Inverse Style Transfer" on Human Face ***{Deep Learning Course Project}***
-2. LSTM-PPO: Memory Adaptive PPO and other methods to Reinforcement Learning in Car Racing Task ***{Perception Course Project}*** | [**Report**](https://docs.google.com/document/d/1GO0xSw5Iomsh3XvZHswUN6aQa4j9FG4UoJtD7FddCPk/edit?usp=sharing)
+2. LSTM-PPO: Memory Adaptive PPO and other methods to Reinforcement Learning in Car Racing Task ***{Perception Course Project}*** > [**Report**](https://docs.google.com/document/d/1GO0xSw5Iomsh3XvZHswUN6aQa4j9FG4UoJtD7FddCPk/edit?usp=sharing)
 {% include gallery id="ppo" caption="Novelty and Improvements of Our LSTM-PPO" %}
 
 3. MURA Musculoskeletal Radiographs Bone X-Ray Deep Learning Competition Stanford Machine Learning Group ***{Independent Research Project}***
 4. Auto-Picking - Protein Particle Recognition and Segmentation in Cryo-electron Microscopy using Regions with CNNs Features (RCNN) ***{Independent Research Project}***
-5. Training a Sparse-Reward Agent for First-Person Shooter Game using DDRQN and Curriculum Learning ***{Artificial Intelligence Course Project}*** | [**Report**](https://drive.google.com/file/d/1p7KBmwg4kMR4J6J2Bg6IYUIDysd_Wird/view?usp=sharing)
+5. Training a Sparse-Reward Agent for First-Person Shooter Game using DDRQN and Curriculum Learning ***{Artificial Intelligence Course Project}*** > [**Report**](https://drive.google.com/file/d/1p7KBmwg4kMR4J6J2Bg6IYUIDysd_Wird/view?usp=sharing)
 6. Using Kinect to Detect Human Skeleton and Gestures Point-To-Point Control AR Game Models to Fight ***{Computer Vision Course Project}*** 
 {% include video id="1Iwb_WZKBH9JaNYWicZby67lfDR4g5InF" provider="google-drive" %}
 
