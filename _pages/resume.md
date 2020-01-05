@@ -137,7 +137,7 @@ david:
 ## Selected Projects
 
 * Multimodal Unsupervised "Inverse Style Transfer" on Human Face ***{Deep Learning Course Project}***
-* LSTM-PPO: Memory Adaptive PPO and other methods to Reinforcement Learning in Car Racing Task ***{Perception Course Project}*** > [**Report**](https://docs.google.com/document/d/1GO0xSw5Iomsh3XvZHswUN6aQa4j9FG4UoJtD7FddCPk/edit?usp=sharing)
+* LSTM-PPO: Memory Adaptive PPO and other methods to Reinforcement Learning in Car Racing Task ***{Perception Course Project}*** > [**Report**](https://drive.google.com/file/d/1saw4JXxkzKHziaZH1A96tZzBoH4EwG9a/view?usp=sharing)
 {% include gallery id="ppo" caption="Novelty and Improvements of Our LSTM-PPO" %}
 * MURA Musculoskeletal Radiographs Bone X-Ray Deep Learning Competition Stanford Machine Learning Group ***{Independent Research Project}***
 * Auto-Picking - Protein Particle Recognition and Segmentation in Cryo-electron Microscopy using Regions with CNNs Features (RCNN) ***{Independent Research Project}***
