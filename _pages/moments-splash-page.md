@@ -23,7 +23,7 @@ feature_row:
     excerpt: "So glad to be one part of such a fantastic lab and advised/work with Professor Jianbo Shi!"
   - image_path: /assets/img/school.jpg
     title: "Life @ UC Berkeley and Uchicago"
-    excerpt: "Study at those campus let me fall in love with campus life, Looking forward to going back there."
+    excerpt: "Study at campus let me fall in love with campus life, Looking forward to going back there."
 
 
 feature_row2:

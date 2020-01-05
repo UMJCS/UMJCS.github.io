@@ -85,7 +85,7 @@ david:
 > 
 > **Research Interests** || 3D Human Motion Animation, Unsupervised Learning, Detection/Segmentation
 > 
-> **Publications** || One paper accepted by ICCV19' (Liquid Warping GAN) link:xxxx.
+> **Publications** || One paper accepted by ICCV19' (Liquid Warping GAN) [**Website**](https://svip-lab.github.io/project/impersonator.html)
 
 
 ## Skills

@@ -8,57 +8,11 @@ toc_label: "Quick Guide"
 toc_icon: "cog"
 toc_sticky: true
 
-feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
-
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
 header:
   image: /assets/img/moment/iccv19/4.jpg
   teaser: /assets/img/moment/iccv19/4.jpg
 
-gallery:
+pre:
   - url: /assets/img/moment/iccv19/1.jpg
     image_path: assets/img/moment/iccv19/1.jpg
     alt: "placeholder image 1"
@@ -70,15 +24,93 @@ gallery:
   - url: /assets/img/moment/iccv19/3.jpg
     image_path: assets/img/moment/iccv19/3.jpg
     alt: "placeholder image 3"
+
+food:
+  - url: /assets/img/moment/iccv19/food/1.jpg
+    image_path: assets/img/moment/iccv19/food/1.jpg
+    alt: "placeholder image 1"
+
+  - url: /assets/img/moment/iccv19/food/2.jpg
+    image_path: assets/img/moment/iccv19/food/2.jpg
+    alt: "placeholder image 2"
+
+  - url: /assets/img/moment/iccv19/food/3.jpg
+    image_path: assets/img/moment/iccv19/food/3.jpg
+    alt: "placeholder image 3"
+
+view:
+  - url: /assets/img/moment/iccv19/view/1.jpg
+    image_path: assets/img/moment/iccv19/view/1.jpg
+    alt: "placeholder image 1"
+
+  - url: /assets/img/moment/iccv19/view/2.jpg
+    image_path: assets/img/moment/iccv19/view/2.jpg
+    alt: "placeholder image 2"
+
+register:
+  - url: /assets/img/moment/iccv19/register/1.jpg
+    image_path: assets/img/moment/iccv19/register/1.jpg
+    alt: "placeholder image 1"
+
+  - url: /assets/img/moment/iccv19/register/2.jpg
+    image_path: assets/img/moment/iccv19/register/2.jpg
+    alt: "placeholder image 2"
+
+  - url: /assets/img/moment/iccv19/register/3.jpg
+    image_path: assets/img/moment/iccv19/register/3.jpg
+    alt: "placeholder image 3"
+
+pre1:
+  - url: /assets/img/moment/iccv19/pre/1.jpg
+    image_path: assets/img/moment/iccv19/pre/1.jpg
+    alt: "placeholder image 1"
+
+  - url: /assets/img/moment/iccv19/pre/2.jpg
+    image_path: assets/img/moment/iccv19/pre/2.jpg
+    alt: "placeholder image 2"
+
+  - url: /assets/img/moment/iccv19/pre/3.jpg
+    image_path: assets/img/moment/iccv19/pre/3.jpg
+    alt: "placeholder image 3"
+
+pre2:
+  - url: /assets/img/moment/iccv19/pre/4.jpg
+    image_path: assets/img/moment/iccv19/pre/4.jpg
+    alt: "placeholder image 1"
+
+  - url: /assets/img/moment/iccv19/pre/5.jpg
+    image_path: assets/img/moment/iccv19/pre/5.jpg
+    alt: "placeholder image 2"
+
+  - url: /assets/img/moment/iccv19/pre/6.jpg
+    image_path: assets/img/moment/iccv19/pre/6.jpg
+    alt: "placeholder image 3"
 ---
 
-section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+### About Paper
+My paper Liquid Warping GAN [**Website**](https://svip-lab.github.io/project/impersonator.html) was accepted by ICCV19. It's my first time to Korea, Seoul. Great Conference, Great Food!
 
 
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
 
-{% include figure image_path="/assets/img/moment/undergraduate/VCIP.png" alt="PipeLine of DAVid GAN" %}
+> ### About Poster
+{% include gallery id="pre" caption="This is a sample gallery to go along with this case study." %}
+
+> ### About things in Korea
+#### Food
+{% include gallery id="food" caption="This is a sample gallery to go along with this case study." %}
+#### View
+{% include gallery id="view" caption="This is a sample gallery to go along with this case study." %}
+
+> ### About interesting presentation/posters/papers in ICCV19
+{% include gallery id="register" caption="This is a sample gallery to go along with this case study." %}
+
+{% include gallery id="pre1" caption="This is a sample gallery to go along with this case study." %}
+
+{% include gallery id="pre2" caption="This is a sample gallery to go along with this case study." %}
+
+{% include figure image_path="/assets/img/moment/iccv19/poster/1.jpg" alt="PLFu" %}
+
+{% include figure image_path="/assets/img/moment/iccv19/poster/2.jpg" alt="Deep CG2Real" %}
+
+{% include figure image_path="/assets/img/moment/iccv19/poster/3.jpg" alt="Shape Representation with Structured Implicit Function" %}
