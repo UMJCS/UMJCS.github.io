@@ -98,18 +98,14 @@ My paper Liquid Warping GAN [**Website**](https://svip-lab.github.io/project/imp
 
 > ### About things in Korea
 #### Food
-{% include figure image_path="/assets/img/moment/iccv19/food/1.jpg" alt="food" %}
-{% include figure image_path="/assets/img/moment/iccv19/food/1.jpg" alt="food" %}
-{% include figure image_path="/assets/img/moment/iccv19/food/1.jpg" alt="food" %}
+{% include gallery id="food" caption="Traditional foods." %}
 #### View
 {% include figure image_path="/assets/img/moment/iccv19/view/1.jpg" alt="view" %}
-{% include figure image_path="/assets/img/moment/iccv19/food/2.jpg" alt="view" %}
+{% include figure image_path="/assets/img/moment/iccv19/view/2.jpg" alt="view" %}
+
 > ### About interesting presentation/posters/papers in ICCV19
 > 
 {% include figure image_path="/assets/img/moment/iccv19/register/1.jpg" alt="Korea" %}
-
-{% include figure image_path="/assets/img/moment/iccv19/register/2.jpg" alt="Register" %}
-{% include figure image_path="/assets/img/moment/iccv19/register/3.jpg" alt="Register" %}
 
 {% include gallery id="pre1" caption="Structure and interpolation of GAN." %}
 
@@ -118,5 +114,3 @@ My paper Liquid Warping GAN [**Website**](https://svip-lab.github.io/project/imp
 {% include figure image_path="/assets/img/moment/iccv19/poster/1.jpg" alt="PLFu" %}
 
 {% include figure image_path="/assets/img/moment/iccv19/poster/2.jpg" alt="Deep CG2Real" %}
-
-{% include figure image_path="/assets/img/moment/iccv19/poster/3.jpg" alt="Shape Representation with Structured Implicit Function" %}
