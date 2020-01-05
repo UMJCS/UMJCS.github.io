@@ -42,13 +42,9 @@ feature_row3:
 
 
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/img/moment/undergraduate/VCIP.png
+    alt: "DAVid GAN"
+    excerpt: 'Pipeline of DAVid GAN'
 
 gallery:
   - url: /assets/img/moment/NTU/4.jpg
@@ -100,8 +96,6 @@ Major GAP 3.75/4.0
 > **Publications** || One paper accepted by ICCV19' (Liquid Warping GAN) link:xxxx.
 
 
-
-
 ## Skills
 
 **Languages** | python,C++,Pytorch,Tensorflow,JAVA,SQL
@@ -112,7 +106,7 @@ Major GAP 3.75/4.0
 ## Selected Experiences
 
 ### Publication/Research Intern
-1. **Liquid-Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis** *(Accepted by ICCV19')* || *Perception Lab, ShanghaiTech University, Prof. Shenghua Gao* || 11/2018-04/2019 
+* **Liquid-Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis** *(Accepted by ICCV19')* || *Perception Lab, ShanghaiTech University, Prof. Shenghua Gao* || 11/2018-04/2019 
 
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
 
@@ -123,7 +117,7 @@ Major GAP 3.75/4.0
 
 {% include video id="LEz0jgTiLyk" provider="youtube" %}
 
-2. **Nested Scale-Editing for Conditional Image Synthesis** *(Submitted to CVPR20')* || *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* || 08/2019-11/2019
+* **Nested Scale-Editing for Conditional Image Synthesis** *(Submitted to CVPR20')* || *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* || 08/2019-11/2019
 
 > ***Details will Updated After the Deadline.***
 > 
@@ -131,20 +125,20 @@ Major GAP 3.75/4.0
 
 
 
-1. **Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation** *(Submitted to CVPR20')* || *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* || 08/2019-11/2019
+* **Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation** *(Submitted to CVPR20')* || *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* || 08/2019-11/2019
 
 > ***Details will Updated After the Deadline.***
 > 
 > We study the problem of common sense placement of visual objects in an image. This involves multiple aspects of visual recognition: the instance segmentation of the scene, 3D layout, and common knowledge of how objects are placed and where objects are moving in the 3D scene. This seemingly simple task is difficult for current learning based approaches because of the lack of labeled training data which ideally should consist of a variety of foreground objects paired with cleaned background scenes with no objects with many demonstrated plausible object locations. Because of this challenge, many current solutions only work in synthetic environments or rely on dense supervision. We propose a self-learning framework that automatically generates the necessary training data without any manual labeling by detecting, cutting, and inpainting objects from an image. We learn a generative model that predicts a distribution of common sense locations when given a foreground object and a background scene. We show experimentally our object placement network can be used to augment training data to boost instance segmentation. In addition, the learned representation of our placement network displays strong discriminative power in image retrieval and transfer learning. Inspired by human’s memory system, we call our self-supervised learning system mental replay.
 
 
-4. **DAVid GAN** *(Submitted to VCIP19')* ||*Perception Lab, ShanghaiTech University, Prof. Shenghua Gao* || 03/2019-06/2019
+* **DAVid GAN: **D**etect **A**nomalies in **Vid**eo with GAN** *(Submitted to VCIP19' && Bachelor Thesis)* || *Perception Lab, ShanghaiTech University, Prof. Shenghua Gao* || 03/2019-06/2019
 
-> 44444
+> I proposed to learn pattern representation of normal events instead of abnormal, which tackles problems in existing methods and improves average 7.2% AUC among results. 
+> 
+> The network is composed of two modules: an **Bi-sided Generator** takes optical flow and RGB frames as input, and output reconstruction on the other side; An **LSTM Network** takes sequential human joints info as input, and predicts future motions.
 
-
-
-
+{% include feature_row id="feature_row4" type="center" %}
 
 ## Selected Projects
 
@@ -159,4 +153,13 @@ Major GAP 3.75/4.0
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
+## Other Experiences 
+### RA
+* Research Assitant at Nanyang Technology University, Singapore, LILY Lab.
+### TA
+Teaching Assitant in Courses:
+1. Introduction to Computer Science
+2. Computer Vision
+3. Data Structure
+4. Undergraduate Mentor of Math @ Upenn
 
