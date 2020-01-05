@@ -18,8 +18,8 @@ feature_row:
     title: "Paper Accepted by ICCV19' @ Seoul Korea"
     excerpt: "Come to Seoul Korea for the first time, Great conference experience! "
   - image_path: /assets/img/moment/grasp40/1.jpg
-    alt: "Join GRASP lab at UPenn and Celebrating 40th years!"
-    title: "Join GRASP lab @ UPenn and Celebrating 40th years!"
+    alt: "Join GRASP lab at UPenn and Celebrate 40th years!"
+    title: "Join GRASP lab @ UPenn and Celebrate 40th years!"
     excerpt: "So glad to be one part of such a fantastic lab and advised/work with Professor Jianbo Shi!"
   - image_path: /assets/img/school.jpg
     title: "Life @ UC Berkeley and Uchicago"

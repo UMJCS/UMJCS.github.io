@@ -79,7 +79,7 @@ david:
 
 ### **ShanghaiTech University**
 *Bachelor of Computer Science and Engineering*        |  August 2015 - June 2019 |
-***Major GAP 3.75/4.0***
+***Major GAP: 3.75/4.0***
 
 > **Highlighted Courses** || Deep Learning, Computer Vision, Advanced Algorithm, Autonomous Robotics
 > 
