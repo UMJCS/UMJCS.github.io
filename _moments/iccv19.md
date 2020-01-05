@@ -94,20 +94,26 @@ My paper Liquid Warping GAN [**Website**](https://svip-lab.github.io/project/imp
 {% include video id="nhla-Mfq2Wc" provider="youtube" %}
 
 > ### About Poster
-{% include gallery id="pre" caption="This is a sample gallery to go along with this case study." %}
+{% include gallery id="pre" caption="In Poster Part you can share your idea with others." %}
 
 > ### About things in Korea
 #### Food
-{% include gallery id="food" caption="This is a sample gallery to go along with this case study." %}
+{% include figure image_path="/assets/img/moment/iccv19/food/1.jpg" alt="food" %}
+{% include figure image_path="/assets/img/moment/iccv19/food/1.jpg" alt="food" %}
+{% include figure image_path="/assets/img/moment/iccv19/food/1.jpg" alt="food" %}
 #### View
-{% include gallery id="view" caption="This is a sample gallery to go along with this case study." %}
-
+{% include figure image_path="/assets/img/moment/iccv19/view/1.jpg" alt="view" %}
+{% include figure image_path="/assets/img/moment/iccv19/food/2.jpg" alt="view" %}
 > ### About interesting presentation/posters/papers in ICCV19
-{% include gallery id="register" caption="This is a sample gallery to go along with this case study." %}
+> 
+{% include figure image_path="/assets/img/moment/iccv19/register/1.jpg" alt="Korea" %}
 
-{% include gallery id="pre1" caption="This is a sample gallery to go along with this case study." %}
+{% include figure image_path="/assets/img/moment/iccv19/register/2.jpg" alt="Register" %}
+{% include figure image_path="/assets/img/moment/iccv19/register/3.jpg" alt="Register" %}
 
-{% include gallery id="pre2" caption="This is a sample gallery to go along with this case study." %}
+{% include gallery id="pre1" caption="Structure and interpolation of GAN." %}
+
+{% include gallery id="pre2" caption="Generative models as data visualization." %}
 
 {% include figure image_path="/assets/img/moment/iccv19/poster/1.jpg" alt="PLFu" %}
 
