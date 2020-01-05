@@ -46,31 +46,23 @@ feature_row4:
     alt: "DAVid GAN"
     excerpt: 'Pipeline of DAVid GAN'
 
-gallery:
-  - url: /assets/img/moment/NTU/4.jpg
-    image_path: assets/img/moment/NTU/4.jpg
-    alt: "placeholder image 1"
+ppo:
+  - url: /assets/img/moment/project/ppo2.png
+    image_path: assets/img/moment/project/ppo2.png
+    alt: "New Cliping Function"
 
-  - url: /assets/img/moment/NTU/2.jpg
-    image_path: assets/img/moment/NTU/2.jpg
-    alt: "placeholder image 2"
+  - url: /assets/img/moment/project/ppo1.png
+    image_path: assets/img/moment/project/ppo1.png
+    alt: "More Adaptive Memory Management Methods, similar to LSTM"
 
-  - url: /assets/img/moment/NTU/3.jpg
-    image_path: assets/img/moment/NTU/3.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/moment/project/ppo3.png
+    image_path: assets/img/moment/project/ppo3.png
+    alt: "Reward Curves"
 
-iccv19:
-  - url: /assets/img/moment/NTU/4.jpg
-    image_path: assets/img/moment/NTU/4.jpg
-    alt: "placeholder image 1"
-
-  - url: /assets/img/moment/NTU/2.jpg
-    image_path: assets/img/moment/NTU/2.jpg
-    alt: "placeholder image 2"
-
-  - url: /assets/img/moment/NTU/3.jpg
-    image_path: assets/img/moment/NTU/3.jpg
-    alt: "placeholder image 3"
+david:
+  - url: /assets/img/moment/undergraduate/VCIP.png
+    image_path: assets/img/moment/undergraduate/VCIP.png
+    alt: "DAvid GAN"
 
 ---
 
@@ -138,7 +130,7 @@ Major GAP 3.75/4.0
 > 
 > The network is composed of two modules: an **Bi-sided Generator** takes optical flow and RGB frames as input, and output reconstruction on the other side; An **LSTM Network** takes sequential human joints info as input, and predicts future motions.
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include gallery id="david" caption="PipeLine of DAVid GAN." %}
 
 ## Selected Projects
 
@@ -148,18 +140,19 @@ Major GAP 3.75/4.0
 4. Using Kinect to Detect Human Skeleton and Gestures Point-To-Point Control AR Game Models to Fight ***{Computer Vision Course Project}***
 5. Multimodal Unsupervised "Inverse Style Transfer" on Human Face ***{Deep Learning Course Project}***
    > link:kkkk
-6. LSTM-PPO: Memory Adaptive Method to Reinforcement Learning in Car Racing Task ***{Perception Course Project}***
+6. LSTM-PPO: Memory Adaptive PPO and other methods to Reinforcement Learning in Car Racing Task ***{Perception Course Project}***
    > link:xxxx
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery id="ppo" caption="Novelty and Improvements of Our LSTM-PPO" %}
 
-## Other Experiences 
-### RA
+## Other Experiences
+
+### RA (Research Assistant)
 * Research Assitant at Nanyang Technology University, Singapore, LILY Lab.
-### TA
-Teaching Assitant in Courses:
-1. Introduction to Computer Science
-2. Computer Vision
-3. Data Structure
-4. Undergraduate Mentor of Math @ Upenn
+
+### TA (Teaching Assistant) in:
+* Introduction to Computer Science
+* Computer Vision
+* Data Structure
+* Undergraduate Mentor of Math @ Upenn
 
