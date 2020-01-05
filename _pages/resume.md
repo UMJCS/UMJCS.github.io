@@ -152,7 +152,7 @@ david:
 ### RA (Research Assistant)
 * Research Assitant at Nanyang Technology University, Singapore, LILY Lab.
 
-### TA (Teaching Assistant) in:
+### TA (Teaching Assistant)
 * Introduction to Computer Science
 * Computer Vision
 * Data Structure
