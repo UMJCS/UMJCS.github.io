@@ -125,20 +125,20 @@ Major GAP 3.75/4.0
 
 {% include video id="LEz0jgTiLyk" provider="youtube" %}
 
-* **Nested Scale-Editing for Conditional Image Synthesis** *(Submitted to CVPR20')* || 03/2019-06/2019
+* **Nested Scale-Editing for Conditional Image Synthesis** *(Submitted to CVPR20')* || 08/2019-11/2019
 
 *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* 
-> ***Will Update Details After the Deadline.***
+> ***Details will Updated After the Deadline.***
 > 
 > We propose an image synthesis approach that provides stratified navigation in the latent code space. With a tiny amount of partial or very low-resolution image, our approach can consistently out-perform state-of-the-art counterparts in terms of generating the closest sampled image to the ground truth. We achieve this through scale-independent editing while expanding scale-specific diversity. Scale-independence is achieved with a nested scale disentanglement loss. Scale-specific diversity is created by incorporating a progressive diversification constraint. We introduce semantic persistency across the scales by sharing common latent codes. Together they provide better control of the image synthesis process. We evaluate the effectiveness of our proposed approach through various tasks, including image outpainting, image superresolution, and cross-domain image translation.
 
 
 
-* **Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation** *(Submitted to CVPR20')* || 03/2019-06/2019
+* **Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation** *(Submitted to CVPR20')* || 08/2019-11/2019
 
-*Perception Lab, ShanghaiTech University* 
+*GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* 
 
-> ***Will Update Details After the Deadline.***
+> ***Details will Updated After the Deadline.***
 > 
 > We study the problem of common sense placement of visual objects in an image. This involves multiple aspects of visual recognition: the instance segmentation of the scene, 3D layout, and common knowledge of how objects are placed and where objects are moving in the 3D scene. This seemingly simple task is difficult for current learning based approaches because of the lack of labeled training data which ideally should consist of a variety of foreground objects paired with cleaned background scenes with no objects with many demonstrated plausible object locations. Because of this challenge, many current solutions only work in synthetic environments or rely on dense supervision. We propose a self-learning framework that automatically generates the necessary training data without any manual labeling by detecting, cutting, and inpainting objects from an image. We learn a generative model that predicts a distribution of common sense locations when given a foreground object and a background scene. We show experimentally our object placement network can be used to augment training data to boost instance segmentation. In addition, the learned representation of our placement network displays strong discriminative power in image retrieval and transfer learning. Inspired by human’s memory system, we call our self-supervised learning system mental replay.
 
