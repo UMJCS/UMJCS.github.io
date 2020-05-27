@@ -1,19 +1,14 @@
 # main links
 main:
 
-  - title: "SiteMap"
-    url: /myblogs/
-
-
-  - title: "Shared Papers"
-    url: /papers/
-
-
   - title: "Resume"
     url: /resume/
 
   - title: "Moments"
     url: /moments/
+
+  - title: "Shared Papers"
+    url: /papers/
 
   - title: "Search"
     url: /search/
