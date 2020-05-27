@@ -27,6 +27,15 @@ feature_row:
 
 
 feature_row2:
+  - image_path: /assets/img/moment/cvpr20/header.png
+    alt: "Paper Accepted by CVPR20' @ Seattle Washington"
+    title: "Paper Accepted by CVPR20' @ Seattle Washington"
+    excerpt: "Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation"
+    url: /moments/iccv19/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row3:
   - image_path: /assets/img/moment/iccv19/1.jpg
     alt: "Paper Accepted by ICCV19' @ Seoul Korea"
     title: "Paper Accepted by ICCV19' @ Seoul Korea"
@@ -35,7 +44,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row3:
+feature_row4:
   - image_path: /assets/img/moment/grasp40/3.jpg
     alt: "Join GRASP lab at UPenn and Celebrating 40th years!"
     title: "Join GRASP lab @ UPenn and Celebrating 40th years!"
@@ -43,7 +52,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row4:
+feature_row5:
   - image_path: /assets/img/moment/undergraduate/4.jpg
     alt: "Bachelar Graduation"
     title: "Bachelar Graduation"
@@ -52,7 +61,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row5:
+feature_row6:
   - image_path: /assets/img/moment/chicago/3.jpg
     alt: "Life @ Uchicago"
     title: "Life @ Uchicago"
@@ -61,7 +70,7 @@ feature_row5:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row6:
+feature_row7:
   - image_path: /assets/img/moment/NTU/6.jpg
     alt: "Life @ NTU Singapore"
     title: "Life @ NTU Singapore"
@@ -85,4 +94,6 @@ feature_row6:
 {% include feature_row id="feature_row5" type="right" %}
 
 {% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_row7" type="right" %}
 
