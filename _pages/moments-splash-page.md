@@ -30,7 +30,7 @@ feature_row2:
   - image_path: /assets/img/moment/cvpr20/header.png
     alt: "Paper Accepted by CVPR20' @ Seattle Washington"
     title: "Paper Accepted by CVPR20' @ Seattle Washington"
-    excerpt: ""Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation""
+    excerpt: "Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation"
     url: /moments/cvpr20/
     btn_label: "Read More"
     btn_class: "btn--primary"
