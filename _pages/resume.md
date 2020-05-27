@@ -93,7 +93,7 @@ david:
 **Languages** | python,C++,Pytorch,Tensorflow,JAVA,SQL
 **Technologies** | Linux, Multi-GPU Server, Latex, Vim, Git, Arxiv
 **Research Interests** | 3D Human Motion Animation, Unsupervised Learning, Detection/Segmentation
-**Publications** | One accepted ICCV19' (Liquid Warping GAN), Two submitted CVPR20'(xxx and xxx)
+**Publications** | One paper accepted ICCV19' (Liquid Warping GAN), One paper accepted CVPR20' (Nested Scale-Editing for Conditional Image Synthesis), One paper under reviewing of ECCV20'.
 
 ## Selected Experiences
 
@@ -111,7 +111,7 @@ david:
 
 {% include video id="LEz0jgTiLyk" provider="youtube" %}
 
-* **Nested Scale-Editing for Conditional Image Synthesis** *(Submitted to CVPR20')* || *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* || 08/2019-11/2019
+* **Nested Scale-Editing for Conditional Image Synthesis** *(Accpeted by CVPR20')* || *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* || 08/2019-11/2019
 
 > ***Details will Updated After the Deadline.***
 > 
@@ -119,7 +119,7 @@ david:
 
 
 
-* **Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation** *(Submitted to CVPR20')* || *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* || 08/2019-11/2019
+* **Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation** *(Submitted to ECCV20')* || *GRASP Lab, University of Pennsylvania, Prof. Jianbo Shi* || 08/2019-11/2019
 
 > ***Details will Updated After the Deadline.***
 > 
