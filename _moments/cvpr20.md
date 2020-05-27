@@ -1,76 +1,48 @@
 ---
-title: "Paper accepted by CVPR20, conference goes virtual this summer"
-excerpt: ""
+title: "CVPR20 at Seattle Washington"
+excerpt: "Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation"
 permalink: /moments/cvpr20/
 author_profile: false
-toc: true
+toc: false
 toc_label: "Quick Guide"
 toc_icon: "cog"
 toc_sticky: true
 
-feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
-
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
 header:
-  image: /assets/img/moment/berkeley/3.jpg
-  teaser: /assets/img/moment/berkeley/3.jpg
+  image: /assets/img/moment/cvpr20/hearer.png
+  teaser: /assets/img/moment/cvpr20/hearer.png
 
-gallery:
-  - url: /assets/img/moment/berkeley/1.jpg
-    image_path: assets/img/moment/berkeley/1.jpg
+pre:
+  - url: /assets/img/moment/cvpr20/1.png
+    image_path: assets/img/moment/cvpr20/1.png
     alt: "placeholder image 1"
 
-  - url: /assets/img/moment/berkeley/2.jpg
-    image_path: assets/img/moment/berkeley/2.jpg
+  - url: /assets/img/moment/cvpr20/2.png
+    image_path: assets/img/moment/cvpr20/2.png
     alt: "placeholder image 2"
 
-  - url: /assets/img/moment/berkeley/3.jpg
-    image_path: assets/img/moment/berkeley/3.jpg
+  - url: /assets/img/moment/cvpr20/3.png
+    image_path: assets/img/moment/cvpr20/3.png
     alt: "placeholder image 3"
+
+  - url: /assets/img/moment/cvpr20/4.png
+    image_path: assets/img/moment/cvpr20/4.png
+    alt: "placeholder image 4"
+
+  - url: /assets/img/moment/cvpr20/5.png
+    image_path: assets/img/moment/cvpr20/5.png
+    alt: "placeholder image 5"
+
 
 ---
 
-{% include gallery caption="Life @ UC Berkeley" %}
+
+### Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation
+
+{% include figure image_path="/assets/img/moment/cvpr20/1.png" alt="paper" %}
+{% include figure image_path="/assets/img/moment/cvpr20/2.png" alt="paper" %}
+{% include figure image_path="/assets/img/moment/cvpr20/3.png" alt="paper" %}
+{% include figure image_path="/assets/img/moment/cvpr20/4.png" alt="paper" %}
+{% include figure image_path="/assets/img/moment/cvpr20/5.png" alt="paper" %}
+
+
