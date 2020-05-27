@@ -30,7 +30,7 @@ feature_row2:
   - image_path: /assets/img/moment/cvpr20/header.png
     alt: "Paper Accepted by CVPR20' @ Seattle Washington"
     title: "Paper Accepted by CVPR20' @ Seattle Washington"
-    excerpt: "Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation"
+    excerpt: ""Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation""
     url: /moments/iccv19/
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -39,7 +39,7 @@ feature_row3:
   - image_path: /assets/img/moment/iccv19/1.jpg
     alt: "Paper Accepted by ICCV19' @ Seoul Korea"
     title: "Paper Accepted by ICCV19' @ Seoul Korea"
-    excerpt: "Come to Seoul Korea for the first time, Great conference experience! "
+    excerpt: "Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis. Come to Seoul Korea for the first time, Great conference experience! "
     url: /moments/iccv19/
     btn_label: "Read More"
     btn_class: "btn--primary"
