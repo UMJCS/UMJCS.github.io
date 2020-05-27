@@ -72,9 +72,9 @@ david:
 *Master of Science in Engineering, Robotics*        |  August 2019 - May 2021 |
 ***Current GPA: 4.0/4.0***
 
-> **Courses** || Advanced Topic in Machine Perception, BigData, Linear/Nonlinear Optimization, Machine Learning, Deep Learning.
+> **Courses** || Advanced Topic in Explainable AI (A+), Machine Perception(A+), Advanced Topic in Machine Perception (A), BigData (A), Linear/Nonlinear Optimization (A), Deep Learning in Data Sci (A)
 > 
-> **Research** || Join GRASP Lab, advised by Prof. Jianbo Shi, interested in Computer Vision and Machine Learning. Submitted two papers to CVPR20'
+> **Research** || Join GRASP Lab, advised by Prof. Jianbo Shi, interested in Computer Vision and Machine Learning. One paper accpeted by CVPR20', Submitted one papers to ECCV20'
 
 
 ### **ShanghaiTech University**
