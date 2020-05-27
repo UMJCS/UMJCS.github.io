@@ -93,7 +93,7 @@ david:
 **Languages** | python,C++,Pytorch,Tensorflow,JAVA,SQL
 **Technologies** | Linux, Multi-GPU Server, Latex, Vim, Git, Arxiv
 **Research Interests** | 3D Human Motion Animation, Unsupervised Learning, Detection/Segmentation
-**Publications** | One paper accepted ICCV19' (Liquid Warping GAN), One paper accepted CVPR20' (Nested Scale-Editing for Conditional Image Synthesis), One paper under reviewing of ECCV20'.
+**Publications** | One paper accepted ICCV19' (Liquid Warping GAN), One paper accepted CVPR20' (Nested Scale-Editing for Conditional Image Synthesis), One paper under reviewing of ECCV20' (Mental Replay: Learning Diverse Object Placement by Inpainting for Compositional Data Augmentation).
 
 ## Selected Experiences
 
