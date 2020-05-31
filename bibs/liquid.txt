@@ -1,0 +1,7 @@
+@InProceedings{Liu_2019_ICCV,
+author = {Liu, Wen and Piao, Zhixin and Min, Jie and Luo, Wenhan and Ma, Lin and Gao, Shenghua},
+title = {Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}
