@@ -1,0 +1,7 @@
+@InProceedings{Zhang_2020_CVPR,
+author = {Zhang, Lingzhi and Wang, Jiancong and Xu, Yinshuang and Min, Jie and Wen, Tarmily and Gee, James C. and Shi, Jianbo},
+title = {Nested Scale-Editing for Conditional Image Synthesis},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
